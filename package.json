@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/jonscheiding/st-web-switches#readme",
   "dependencies": {
-    "angular": "^1.7.9",
+    "angular": "^1.8.0",
     "app-module-path": "^2.0.0",
     "babel-core": "^6.26.0",
     "babel-loader": "^6.2.5",
